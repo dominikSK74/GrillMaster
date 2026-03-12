@@ -1,0 +1,22 @@
+# Unreal Engine - folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.sln
+*.xcodeproj
+*.opensdf
+*.sdf
+*.suo
+
+# Logs & temp
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
